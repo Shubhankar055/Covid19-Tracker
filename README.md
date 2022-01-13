@@ -1,6 +1,6 @@
 # Covid 19 Tracker - Android App 
 
-Covid 19 Tracker is a android app which shows the status of COVID Patients in India as well as International status. Unlike other services, wallabag is free and open source.  
+Covid 19 Tracker is a android app which shows the status of COVID Patients in India as well as International status.
 You can download the app apk from the apk folder in github.
 
 ## Screenshots
